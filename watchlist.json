@@ -1,0 +1,14 @@
+{
+  "apps": [
+    { "id": "tiktok",    "name": "TikTok",    "policy_url": "https://www.tiktok.com/legal/page/us/privacy-policy/en" },
+    { "id": "instagram", "name": "Instagram", "policy_url": "https://privacycenter.instagram.com/policy" },
+    { "id": "facebook",  "name": "Facebook",  "policy_url": "https://www.facebook.com/privacy/policy/" },
+    { "id": "whatsapp",  "name": "WhatsApp",  "policy_url": "https://www.whatsapp.com/legal/privacy-policy" },
+    { "id": "snapchat",  "name": "Snapchat",  "policy_url": "https://values.snap.com/privacy/privacy-policy" },
+    { "id": "temu",      "name": "Temu",      "policy_url": "https://www.temu.com/privacy-and-cookie-policy.html" },
+    { "id": "amazon",    "name": "Amazon",    "policy_url": "https://www.amazon.com/gp/help/customer/display.html?nodeId=GX7NJQ4ZB8MHFRNJ" },
+    { "id": "chatgpt",   "name": "ChatGPT",   "policy_url": "https://openai.com/policies/privacy-policy/" },
+    { "id": "google",    "name": "Google",    "policy_url": "https://policies.google.com/privacy?hl=en-US" },
+    { "id": "roblox",    "name": "Roblox",    "policy_url": "https://en.help.roblox.com/hc/en-us/articles/115004630823-Roblox-Privacy-and-Cookie-Policy" }
+  ]
+}

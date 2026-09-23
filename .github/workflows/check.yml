@@ -1,0 +1,59 @@
+name: Daily policy check
+
+on:
+  schedule:
+    - cron: "17 12 * * *"   # every day at 12:17 UTC
+  workflow_dispatch: {}      # lets you run it any time from the Actions tab
+
+# Least privilege: read-only by default; only the job that saves results can write.
+permissions:
+  contents: read
+
+concurrency:
+  group: policy-check
+  cancel-in-progress: false
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install checker
+        run: |
+          pip install -r requirements.txt
+          python -m playwright install --with-deps chromium
+
+      - name: Run unit tests
+        run: python -m unittest discover -s tests -v
+
+      - name: Check policies
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          VAPID_PRIVATE_KEY: ${{ secrets.VAPID_PRIVATE_KEY }}
+          VAPID_CONTACT: ${{ secrets.VAPID_CONTACT }}
+          PUSH_SUBSCRIPTIONS: ${{ secrets.PUSH_SUBSCRIPTIONS }}
+          CLAUDE_MODEL: ${{ vars.CLAUDE_MODEL }}
+        run: python checker/check.py
+
+      - name: Save results
+        run: |
+          git config user.name "policy-drift-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/snapshots docs/data
+          if git diff --cached --quiet; then
+            echo "Nothing new to save."
+          else
+            git commit -m "Daily policy check $(date -u +%Y-%m-%d)"
+            git push
+          fi

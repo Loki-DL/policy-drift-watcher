@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <!-- Strict security policy: only this site's own files may load. No inline scripts, no third parties. -->
+  <meta http-equiv="Content-Security-Policy"
+        content="default-src 'none'; script-src 'self'; style-src 'self'; img-src 'self'; connect-src 'self'; manifest-src 'self'; worker-src 'self'; base-uri 'none'; form-action 'none'">
+  <meta name="referrer" content="no-referrer">
+  <meta name="theme-color" content="#0f172a">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="apple-mobile-web-app-title" content="Drift Watch">
+  <title>Policy Drift Watcher</title>
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="icon" href="icons/icon-192.png">
+  <link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
+  <link rel="stylesheet" href="styles.css">
+  <script src="config.js" defer></script>
+  <script src="app.js" defer></script>
+</head>
+<body>
+  <header class="top">
+    <div class="brand">
+      <img src="icons/icon-192.png" alt="" width="32" height="32">
+      <div>
+        <h1>Policy Drift Watcher</h1>
+        <p id="last-run" class="muted">Loading…</p>
+      </div>
+    </div>
+  </header>
+
+  <main id="main">
+    <section id="home">
+      <div id="notify-card" class="notice" hidden></div>
+      <p id="summary" class="summary"></p>
+      <ul id="app-list" class="app-list" aria-live="polite"></ul>
+    </section>
+
+    <section id="detail" hidden>
+      <button id="back" class="back" type="button">‹ All apps</button>
+      <div id="detail-body"></div>
+    </section>
+  </main>
+
+  <footer class="foot muted">
+    Summaries are written by AI and are not legal advice. Always check the original policy.
+  </footer>
+</body>
+</html>
