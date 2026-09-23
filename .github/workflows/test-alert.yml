@@ -1,0 +1,42 @@
+name: Send test alert
+
+on:
+  workflow_dispatch: {}   # run by hand from the Actions tab
+
+permissions:
+  contents: read
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install "pywebpush>=2.0,<3"
+      - name: Send a test notification to your phone
+        env:
+          VAPID_PRIVATE_KEY: ${{ secrets.VAPID_PRIVATE_KEY }}
+          VAPID_CONTACT: ${{ secrets.VAPID_CONTACT }}
+          PUSH_SUBSCRIPTIONS: ${{ secrets.PUSH_SUBSCRIPTIONS }}
+        run: |
+          python - <<'EOF'
+          import sys
+          sys.path.insert(0, "checker")
+          import push
+          result = push.send_all([{
+              "title": "Drift Watch test",
+              "body": "Server alerts are working. You'll hear from us when a policy changes.",
+              "url": "./",
+              "tag": "server-test",
+          }])
+          print("Result:", result)
+          if result["skipped"]:
+              sys.exit("No alert sent: PUSH_SUBSCRIPTIONS or VAPID_PRIVATE_KEY secret is missing.")
+          if result["expired"]:
+              sys.exit("Your phone's alert key has expired: turn alerts on again in the app and update PUSH_SUBSCRIPTIONS.")
+          if result["sent"] == 0:
+              sys.exit("The notification service rejected the alert. Check VAPID_PRIVATE_KEY matches the app's public key.")
+          EOF
