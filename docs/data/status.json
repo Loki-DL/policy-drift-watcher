@@ -1,73 +1,73 @@
 {
-  "last_run": "2026-09-23T17:00:53+00:00",
+  "last_run": "2026-09-24T17:12:50+00:00",
   "apps": {
     "tiktok": {
       "name": "TikTok",
       "policy_url": "https://www.tiktok.com/legal/page/us/privacy-policy/en",
-      "last_checked": "2026-09-23T17:00:53+00:00",
+      "last_checked": "2026-09-24T17:12:50+00:00",
       "state": "watching",
       "watching_since": "2026-09-23T12:41:33+00:00"
     },
     "instagram": {
       "name": "Instagram",
       "policy_url": "https://privacycenter.instagram.com/policy",
-      "last_checked": "2026-09-23T17:00:53+00:00",
+      "last_checked": "2026-09-24T17:12:50+00:00",
       "state": "watching",
       "watching_since": "2026-09-23T12:41:33+00:00"
     },
     "facebook": {
       "name": "Facebook",
       "policy_url": "https://www.facebook.com/privacy/policy/",
-      "last_checked": "2026-09-23T17:00:53+00:00",
+      "last_checked": "2026-09-24T17:12:50+00:00",
       "state": "watching",
       "watching_since": "2026-09-23T12:41:33+00:00"
     },
     "whatsapp": {
       "name": "WhatsApp",
       "policy_url": "https://www.whatsapp.com/legal/privacy-policy",
-      "last_checked": "2026-09-23T17:00:53+00:00",
+      "last_checked": "2026-09-24T17:12:50+00:00",
       "state": "watching",
       "watching_since": "2026-09-23T12:41:33+00:00"
     },
     "snapchat": {
       "name": "Snapchat",
       "policy_url": "https://values.snap.com/privacy/privacy-policy",
-      "last_checked": "2026-09-23T17:00:53+00:00",
+      "last_checked": "2026-09-24T17:12:50+00:00",
       "state": "watching",
       "watching_since": "2026-09-23T12:41:33+00:00"
     },
     "temu": {
       "name": "Temu",
       "policy_url": "https://www.temu.com/privacy-and-cookie-policy.html",
-      "last_checked": "2026-09-23T17:00:53+00:00",
+      "last_checked": "2026-09-24T17:12:50+00:00",
       "state": "watching",
       "watching_since": "2026-09-23T12:41:33+00:00"
     },
     "amazon": {
       "name": "Amazon",
       "policy_url": "https://www.amazon.com/gp/help/customer/display.html?nodeId=GX7NJQ4ZB8MHFRNJ",
-      "last_checked": "2026-09-23T17:00:53+00:00",
+      "last_checked": "2026-09-24T17:12:50+00:00",
       "state": "watching",
       "watching_since": "2026-09-23T12:41:33+00:00"
     },
     "chatgpt": {
       "name": "ChatGPT",
       "policy_url": "https://openai.com/policies/privacy-policy/",
-      "last_checked": "2026-09-23T17:00:53+00:00",
+      "last_checked": "2026-09-24T17:12:50+00:00",
       "state": "watching",
       "watching_since": "2026-09-23T12:41:33+00:00"
     },
     "google": {
       "name": "Google",
       "policy_url": "https://policies.google.com/privacy?hl=en-US",
-      "last_checked": "2026-09-23T17:00:53+00:00",
+      "last_checked": "2026-09-24T17:12:50+00:00",
       "state": "watching",
       "watching_since": "2026-09-23T12:41:33+00:00"
     },
     "roblox": {
       "name": "Roblox",
       "policy_url": "https://en.help.roblox.com/hc/en-us/articles/115004630823-Roblox-Privacy-and-Cookie-Policy",
-      "last_checked": "2026-09-23T17:00:53+00:00",
+      "last_checked": "2026-09-24T17:12:50+00:00",
       "state": "watching",
       "watching_since": "2026-09-23T12:41:33+00:00"
     }
