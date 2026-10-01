@@ -1,9 +1,11 @@
-Effective Date: April 30, 2026
+Effective Date: November 1, 2026
 Summary of Recent Changes
-We are updating our Roblox Privacy and Cookie Policy, effective April 30, 2026, to reflect certain changes we are making on Roblox.
+We are updating our Roblox Privacy and Cookie Policy, effective November 1, 2026, to reflect certain changes we are making on Roblox.
 Here’s a high-level summary of the changes we are making:
-We added language clarifying who can see personalized ads and non-personalized ads on Roblox.
+We added language describing regional variation for access to certain features.
+We added information about data collection from researchers.
 We added language describing our practices for sharing information with authorities.
+Click here to review the upcoming changes.
 You can also find the full Privacy Policy here.
 Welcome to the Roblox Privacy Policy
 Is this Privacy Policy for you?
@@ -443,11 +445,6 @@ Request information about with whom we share your Personal Information
 Object to processing activities that violates LGPD’s provisions
 Before responding to any of your requests, we may ask you to provide us with some information to confirm your identity. We will only respond to your request after validating your identity.
 Please also note that these rights are not absolute and may not apply in certain circumstances. For example, we may continue to process and retain Personal Information regardless of your request to delete, object, block or anonymize it, to comply with legal, contractual and/or regulatory obligations, and to protect and exercise rights, including in judicial, administrative and arbitration proceedings, and as otherwise required by law. To exercise your rights or ask questions, you can contact us by completing this Customer Support Form. To appeal a decision about your privacy rights, please contact our Brazilian Data Protection Officer by emailing dpo.roblox@leonardi.adv.br, or otherwise reaching out to us as described in Section 1.
-Summary of Recent Changes
-We added language clarifying who can see personalized ads and non-personalized ads on Roblox.
-We added language describing our practices for sharing information with authorities.
-Effective Date: April 30, 2026
-Last Updated: April 30, 2026
 AR - شروط استخدام Roblox 20260430.pdf
 2 MB Download
 DE - Roblox-Datenschutz- und Cookie-Richtlinie 20260430.pdf
@@ -494,6 +491,52 @@ TE - Roblox గోప్యత మరియు కుకీ విధానం 2
 1 MB Download
 TA - Roblox தனியுரிமை மற்றும் குக்கீ கொள்கை 20260430.pdf
 900 KB Download
+BN-IN - Roblox গোপনীয়তা নীতি এবং কুকি পলিসি 20261101.pdf
+600 KB Download
+BG-BG - Политиката за поверителност и бисквитки на Roblox 20261101.pdf
+600 KB Download
+HR-HR - Robloxova Pravila o privatnosti i kolačićima 20261101.pdf
+300 KB Download
+CS - Zásady ochrany osobních údajů a souborů cookie Robloxu 20261101.pdf
+400 KB Download
+DA - privatlivs- og cookie-politik for Roblox 20261101.pdf
+300 KB Download
+ET - Robloxi privaatsus- ja küpsisepoliitikat 20261101.pdf
+300 KB Download
+FI - Robloxin tietosuoja- ja evästekäytäntöä 20261101.pdf
+300 KB Download
+EL - Πολιτική απορρήτου και Cookie του Roblox 20261101.pdf
+700 KB Download
+HU-HU - Roblox Adatvédelmi és cookie-kra vonatkozó szabályzatát 20261101.pdf
+300 KB Download
+GA - Polasaí Príobháideachta agus Fianán Roblox 20261101.pdf
+300 KB Download
+LV-LV - „Roblox” privātuma un sīkdatņu politiku 20261101.pdf
+500 KB Download
+LT-LT - „Roblox“ privatumo ir slapukų politiką 20261101.pdf
+400 KB Download
+MT - Politika tagħna ta' Roblox dwar il-Privatezza u l-Cookie 20261101.pdf
+400 KB Download
+PT - Política de Privacidade e Cookies do Roblox 20261101.pdf
+300 KB Download
+RO-RO - Politica de confidențialitate și cookie-uri Roblox 20261101.pdf
+400 KB Download
+SK-SK - Zásady ochrany osobných údajov a súborov cookie Roblox 20261101.pdf
+400 KB Download
+SL-SI - Pravilnik o zasebnosti in piškotkih družbe Roblox 20261101.pdf
+300 KB Download
+ES-ES - Política de privacidad y de cookies de Roblox 20261101.pdf
+300 KB Download
+SV - Roblox integritets- och cookiepolicy 20261101.pdf
+300 KB Download
+TE - Roblox గోప్యతా మరియు కుకీల పాలసీని 20261101.pdf
+700 KB Download
+EN-GB - Roblox Privacy and Cookie Policy 20261101.pdf
+200 KB Download
+TA - Roblox தனியுரிமை மற்றும் குக்கீ கொள்கையை 20261101.pdf
+700 KB Download
+HI - Roblox प्राइवेसी और कुकी पॉलिसी 20261101.pdf
+700 KB Download
 Related articles
 Roblox Terms of Use
 Content Maturity Labels
