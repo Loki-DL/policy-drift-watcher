@@ -445,11 +445,11 @@ Request information about with whom we share your Personal Information
 Object to processing activities that violates LGPD’s provisions
 Before responding to any of your requests, we may ask you to provide us with some information to confirm your identity. We will only respond to your request after validating your identity.
 Please also note that these rights are not absolute and may not apply in certain circumstances. For example, we may continue to process and retain Personal Information regardless of your request to delete, object, block or anonymize it, to comply with legal, contractual and/or regulatory obligations, and to protect and exercise rights, including in judicial, administrative and arbitration proceedings, and as otherwise required by law. To exercise your rights or ask questions, you can contact us by completing this Customer Support Form. To appeal a decision about your privacy rights, please contact our Brazilian Data Protection Officer by emailing dpo.roblox@leonardi.adv.br, or otherwise reaching out to us as described in Section 1.
-AR - شروط استخدام Roblox 20260430.pdf
-2 MB Download
+AR - سياسة الخصوصية وملفات تعريف الارتباط الخاصة بـ Roblox 20261101.pdf
+900 KB Download
 DE - Roblox-Datenschutz- und Cookie-Richtlinie 20260430.pdf
 500 KB Download
-EN - Roblox Privacy and Cookie Policy 20260430.pdf
+EN-US - Roblox Privacy and Cookie Policy 20261101.pdf
 500 KB Download
 ES - Política de privacidad y de cookies de Roblox 20260430.pdf
 500 KB Download
@@ -463,8 +463,8 @@ JA - Roblox プライバシーおよびクッキーポリシー 20260430.pdf
 400 KB Download
 KO - Roblox 개인정보 처리방침 및 쿠키 정책 20260430.pdf
 400 KB Download
-NL - privacy- en cookiebeleid van Roblox 20260430.pdf
-200 KB Download
+NL - Privacy- en cookiebeleid van Roblox 20261101.pdf
+300 KB Download
 PL - Zasady ochrony prywatności i dotyczące plików cookie Roblox 20260430.pdf
 300 KB Download
 PT-BR - Política de Privacidade e de Cookies da Roblox 20260430.pdf

@@ -1,6 +1,22 @@
 {
   "changes": [
     {
+      "id": "google-20261002T175319",
+      "app_id": "google",
+      "app_name": "Google",
+      "detected_at": "2026-10-02T17:53:19+00:00",
+      "source_url": "https://policies.google.com/privacy?hl=en-US",
+      "risk": "Medium",
+      "risk_reason": "Google now explicitly links activity-based ad personalization across multiple devices, even when not signed in, increasing tracking scope.",
+      "headline": "Google now uses your activity across devices to personalize ads, even when signed out.",
+      "what_changed": "The policy now states that preferences and ad/search personalization based on your activity apply 'across devices,' not just within a single browsing session.",
+      "what_it_means": "Google may link your behavior on different devices (like your phone and computer) using identifiers, even if you're not signed into an account, to show more relevant ads or search results.",
+      "what_you_can_do": "Check your Google Ads Settings and device-level ad personalization controls to limit cross-device tracking, and consider using 'Do Not Track' or ad ID reset options in your device settings.",
+      "before_excerpt": "Effective May 26, 2026 | Archived versions | Download PDF\nGoogle also collects and uses data that is not associated with your account. For example, when you’re not signed in to a Google Account, we store the information we collect with unique identifiers tied to the browser, application, or device you’re using. This allows us to do things like maintain your preferences across browsing sessions, such as your preferred language or whether to show you more relevant search results or ads based on your activity.",
+      "after_excerpt": "Effective October 1, 2026 | Archived versions | Download PDF\nGoogle also collects and uses data that is not associated with your account. For example, when you’re not signed in to a Google Account, we store the information we collect with unique identifiers tied to the browser, application, or device you’re using. This allows us to do things like maintain your preferences across browsing sessions, such as your preferred language or whether to show you more relevant search results or ads based on your activity across devices.",
+      "ai_generated": true
+    },
+    {
       "id": "instagram-20261001T183328",
       "app_id": "instagram",
       "app_name": "Instagram",
