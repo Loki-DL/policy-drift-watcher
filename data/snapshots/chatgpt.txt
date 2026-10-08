@@ -1,4 +1,4 @@
-US privacy policy | OpenAI
+US Privacy Policy at OpenAI | OpenAI
 Select language
 English (United States)
 العربية
@@ -230,8 +230,10 @@ Other Information You Provide, such as if you choose to participate in our event
 We use this information for the following purposes, as described above:
 Provide, analyze, and maintain our Services
 Improve and develop our Services and conduct research, including using your Content to train our models (subject to your control)
+(opens in a new window)
 To personalize and customize your experience across our Services
 For Free and Go users, subject to your controls, to personalize the ads you see on our Services and measure the effectiveness of ads shown on our Services. Learn more.
+(opens in a new window)
 Communicate with you, including to respond to your questions, and send you information about our Services and events, for example about changes or improvements to the Services or offers or information that may interest you
 To identify your contacts who use our Services when you choose to connect your contacts and update you if they join our Services later.
 Prevent fraud, illegal activity, or misuses of our Services, and to protect the security of our systems and Services, including by monitoring any Content submitted or exchanged on our platforms (learn more here)
