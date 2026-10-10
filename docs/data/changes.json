@@ -1,6 +1,22 @@
 {
   "changes": [
     {
+      "id": "instagram-20261010T172123",
+      "app_id": "instagram",
+      "app_name": "Instagram",
+      "detected_at": "2026-10-10T17:21:23+00:00",
+      "source_url": "https://privacycenter.instagram.com/policy",
+      "risk": "Low",
+      "risk_reason": "This adds a pointer to a new regional notice explaining existing privacy rights rather than changing how data is collected or shared.",
+      "headline": "Instagram adds a US Regional Privacy Notice explaining your rights.",
+      "what_changed": "Instagram added references to a new 'United States Regional Privacy Notice' that explains consumer privacy rights for US residents.",
+      "what_it_means": "US users now have a dedicated document describing what privacy rights they have and how to use them, but this update itself doesn't change what data Instagram collects or shares.",
+      "what_you_can_do": "If you're in the US, check the United States Regional Privacy Notice in Instagram's settings or privacy policy page to learn about your specific rights.",
+      "before_excerpt": "",
+      "after_excerpt": "Read the United States Regional Privacy Notice for more details about how we handle Personal Information and how to exercise your rights.\nPrivacy notice for United States residents\nYou can learn more about the consumer privacy rights that may be available to you by reviewing the United States Regional Privacy Notice.",
+      "ai_generated": true
+    },
+    {
       "id": "facebook-20261004T165133",
       "app_id": "facebook",
       "app_name": "Facebook",
