@@ -1,6 +1,22 @@
 {
   "changes": [
     {
+      "id": "google-20261016T164047",
+      "app_id": "google",
+      "app_name": "Google",
+      "detected_at": "2026-10-16T16:40:47+00:00",
+      "source_url": "https://policies.google.com/privacy?hl=en-US",
+      "risk": "Medium",
+      "risk_reason": "Google is introducing a new opt-in feature that lets services like Search and Gemini pull data from Gmail, Drive, and Photos for personalization and potentially ads, expanding how your private content could be used if you turn it on.",
+      "headline": "Google will let you opt in to sharing Gmail, Drive, and Photos data across its apps for personalized features and ads.",
+      "what_changed": "Google added a new option letting services like Search and Gemini access data from other Google services (Gmail, Drive, Google Photos) to personalize your experience, including a new 'Personal Intelligence' feature. Previously excluded content from Drive, Gmail, and Photos can now be used for personalized ads if you choose to allow it.",
+      "what_it_means": "If you turn this on, information from your private files, emails, or photos could be used by other Google services to tailor search results, suggestions, or ads. By default this sharing is off, but enabling it widens what Google can do with your content.",
+      "what_you_can_do": "Avoid enabling cross-service personalization features like Personal Intelligence if you don't want data from Gmail, Drive, or Photos used elsewhere. Check your Google Account settings and My Ad Center to review or adjust what data is used for ads.",
+      "before_excerpt": "Effective October 1, 2026 | Archived versions | Download PDF\nWe use the information we collect to tailor our services for you, including providing customized and personalized experiences and recommendations, including things like content, and search results. For example, Security Checkup provides security tips adapted to how you use Google products. And, depending on your available settings, Google Play could use information like apps you’ve already installed and videos you’ve watched on YouTube to suggest new apps you might like.\nDepending on your settings, we may also show you personalized ads based on your interests and activity across Google services. For example, if you search for “mountain bikes,” you may see ads for sports equipment on YouTube. You can control what information we use to show you ads by visiting your ad settings in My Ad Center.\nWe don’t show you personalized ads based on your content from Drive, Gmail, or Photos.\nWhen you’re signed in, you can always review and update information by visiting the services you use. For example, Photos and Drive are both designed to help you manage specific types of content you’ve saved with Google.",
+      "after_excerpt": "Effective October 16, 2026 | Archived versions | Download PDF\nWe use the information we collect to tailor our services for you, including providing customized and personalized experiences and recommendations, including things like content, and search results. For example, Security Checkup provides security tips adapted to how you use Google products. And, depending on your available settings, Google Play could use information like apps you’ve already installed and videos you’ve watched on YouTube to suggest new apps you might like. You may choose to allow certain Google services, including services like Search or Gemini Apps, to access data from other Google services you use, such as Google Photos and Workspace apps like Gmail and Drive, in order to provide you with a more personalized experience, subject to the policies and settings of the accessing service. For example, Search may process some of the data that you allow Search to access to personalize content, including ads.\nDepending on your settings, we may also show you personalized ads based on your interests, activity, or personalized content from Google services. For example, if you search for “mountain bikes,” in Search you may see ads for sports equipment on YouTube. You can control what information we use to show you ads by visiting your ad settings in My Ad Center.\nWe don’t show you personalized ads based on your content from Drive, Gmail, or Google Photos, unless you choose to make data from these services…",
+      "ai_generated": true
+    },
+    {
       "id": "instagram-20261015T170240",
       "app_id": "instagram",
       "app_name": "Instagram",
