@@ -1,6 +1,38 @@
 {
   "changes": [
     {
+      "id": "instagram-20261018T155340",
+      "app_id": "instagram",
+      "app_name": "Instagram",
+      "detected_at": "2026-10-18T15:53:40+00:00",
+      "source_url": "https://privacycenter.instagram.com/policy",
+      "risk": "Low",
+      "risk_reason": "This adds a reference to an existing regional privacy notice explaining rights, without indicating new data collection or sharing practices.",
+      "headline": "Instagram adds a link to a US privacy rights notice.",
+      "what_changed": "Instagram added references pointing US residents to a 'United States Regional Privacy Notice' that explains how personal information is handled and how to exercise privacy rights.",
+      "what_it_means": "This doesn't appear to change what data Instagram collects or shares; it just makes it easier for US users to find information about their privacy rights.",
+      "what_you_can_do": "If you want to know your specific privacy rights, look up the United States Regional Privacy Notice in Instagram's Help Center or Privacy Policy page.",
+      "before_excerpt": "",
+      "after_excerpt": "Read the United States Regional Privacy Notice for more details about how we handle Personal Information and how to exercise your rights.\nPrivacy notice for United States residents\nYou can learn more about the consumer privacy rights that may be available to you by reviewing the United States Regional Privacy Notice.",
+      "ai_generated": true
+    },
+    {
+      "id": "facebook-20261018T155340",
+      "app_id": "facebook",
+      "app_name": "Facebook",
+      "detected_at": "2026-10-18T15:53:40+00:00",
+      "source_url": "https://www.facebook.com/privacy/policy/",
+      "risk": "Low",
+      "risk_reason": "This adds a reference to an existing regional privacy notice and rights, without describing any new data collection or sharing.",
+      "headline": "Facebook adds a pointer to a US regional privacy notice.",
+      "what_changed": "Facebook added text directing US residents to a 'United States Regional Privacy Notice' for details on how Personal Information is handled and how to exercise privacy rights.",
+      "what_it_means": "This doesn't appear to change what data Facebook collects or how it's used; it just highlights where US users can find information about their specific privacy rights.",
+      "what_you_can_do": "If you're a US resident, check the United States Regional Privacy Notice in Facebook's settings or help center to see what rights you can exercise.",
+      "before_excerpt": "",
+      "after_excerpt": "Read the United States Regional Privacy Notice for more details about how we handle Personal Information and how to exercise your rights.\nPrivacy notice for United States residents\nYou can learn more about the consumer privacy rights that may be available to you by reviewing the United States Regional Privacy Notice.",
+      "ai_generated": true
+    },
+    {
       "id": "instagram-20261017T153654",
       "app_id": "instagram",
       "app_name": "Instagram",
