@@ -1,6 +1,38 @@
 {
   "changes": [
     {
+      "id": "instagram-20261029T182924",
+      "app_id": "instagram",
+      "app_name": "Instagram",
+      "detected_at": "2026-10-29T18:29:24+00:00",
+      "source_url": "https://privacycenter.instagram.com/policy",
+      "risk": "Medium",
+      "risk_reason": "Removal of references to the United States Regional Privacy Notice may reduce visibility of specific consumer privacy rights and how to exercise them.",
+      "headline": "Instagram removed references to its United States Regional Privacy Notice.",
+      "what_changed": "Instagram deleted text that pointed users to the United States Regional Privacy Notice, which explained consumer privacy rights for U.S. residents and how to exercise them.",
+      "what_it_means": "It's less clear from this policy where U.S. users can find details about their specific privacy rights and how to use them, though this may still be available elsewhere on Instagram's site.",
+      "what_you_can_do": "If you want to learn about your U.S. privacy rights, search Instagram's help center or Meta's privacy site directly for the Regional Privacy Notice.",
+      "before_excerpt": "Read the United States Regional Privacy Notice for more details about how we handle Personal Information and how to exercise your rights.\nPrivacy notice for United States residents\nYou can learn more about the consumer privacy rights that may be available to you by reviewing the United States Regional Privacy Notice.",
+      "after_excerpt": "",
+      "ai_generated": true
+    },
+    {
+      "id": "facebook-20261029T182924",
+      "app_id": "facebook",
+      "app_name": "Facebook",
+      "detected_at": "2026-10-29T18:29:24+00:00",
+      "source_url": "https://www.facebook.com/privacy/policy/",
+      "risk": "Medium",
+      "risk_reason": "Removing references to the United States Regional Privacy Notice may reduce visibility into specific consumer privacy rights and how to exercise them.",
+      "headline": "Facebook removed references to its United States Regional Privacy Notice.",
+      "what_changed": "Facebook deleted text that pointed users to the United States Regional Privacy Notice for details on handling Personal Information and exercising consumer privacy rights.",
+      "what_it_means": "It's less clear from this part of the policy where US users can find specific information about their privacy rights and how to exercise them.",
+      "what_you_can_do": "Check Facebook's full privacy policy or help center directly for details on US consumer privacy rights, since the direct reference was removed here.",
+      "before_excerpt": "Read the United States Regional Privacy Notice for more details about how we handle Personal Information and how to exercise your rights.\nPrivacy notice for United States residents\nYou can learn more about the consumer privacy rights that may be available to you by reviewing the United States Regional Privacy Notice.",
+      "after_excerpt": "",
+      "ai_generated": true
+    },
+    {
       "id": "instagram-20261027T180208",
       "app_id": "instagram",
       "app_name": "Instagram",
