@@ -1,6 +1,22 @@
 {
   "changes": [
     {
+      "id": "facebook-20261111T193720",
+      "app_id": "facebook",
+      "app_name": "Facebook",
+      "detected_at": "2026-11-11T19:37:20+00:00",
+      "source_url": "https://www.facebook.com/privacy/policy/",
+      "risk": "Medium",
+      "risk_reason": "Removal of references to the United States Regional Privacy Notice may reduce visibility of how US residents can exercise their privacy rights.",
+      "headline": "Facebook removed references to its United States Regional Privacy Notice.",
+      "what_changed": "Facebook deleted text that pointed users to the United States Regional Privacy Notice for details on handling of Personal Information and exercising privacy rights.",
+      "what_it_means": "It may be harder for US users to find specific information about their regional privacy rights directly from this policy, though the underlying rights may still exist elsewhere.",
+      "what_you_can_do": "Check Facebook's Privacy Center or Help Center directly for a United States Regional Privacy Notice or similar rights information.",
+      "before_excerpt": "Read the United States Regional Privacy Notice for more details about how we handle Personal Information and how to exercise your rights.\nPrivacy notice for United States residents\nYou can learn more about the consumer privacy rights that may be available to you by reviewing the United States Regional Privacy Notice.",
+      "after_excerpt": "",
+      "ai_generated": true
+    },
+    {
       "id": "instagram-20261110T194458",
       "app_id": "instagram",
       "app_name": "Instagram",
