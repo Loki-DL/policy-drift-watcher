@@ -1,10 +1,4 @@
 Effective Date: November 1, 2026
-Summary of Recent Changes
-We are updating our Roblox Privacy and Cookie Policy, effective November 1, 2026, to reflect certain changes we are making on Roblox.
-Here’s a high-level summary of the changes we are making:
-We added language describing regional variation for access to certain features.
-We added information about data collection from researchers.
-We added language describing our practices for sharing information with authorities.
 You can also find the full Privacy Policy here.
 Welcome to the Roblox Privacy Policy
 Is this Privacy Policy for you?
@@ -454,10 +448,6 @@ Request information about with whom we share your Personal Information
 Object to processing activities that violates LGPD’s provisions
 Before responding to any of your requests, we may ask you to provide us with some information to confirm your identity. We will only respond to your request after validating your identity.
 Please also note that these rights are not absolute and may not apply in certain circumstances. For example, we may continue to process and retain Personal Information regardless of your request to delete, object, block or anonymize it, to comply with legal, contractual and/or regulatory obligations, and to protect and exercise rights, including in judicial, administrative and arbitration proceedings, and as otherwise required by law. To exercise your rights or ask questions, you can contact us by completing this Customer Support Form. To appeal a decision about your privacy rights, please contact our Brazilian Data Protection Officer by emailing dpo.roblox@leonardi.adv.br, or otherwise reaching out to us as described in Section 1.
-Summary of Recent Changes
-We added language describing regional variation for access to certain features.
-We added information about data collection from researchers.
-We added language describing our practices for sharing information with authorities.
 Effective Date: November 1, 2026
 Last Updated: November 1, 2026
 AR - سياسة الخصوصية وملفات تعريف الارتباط الخاصة بـ Roblox 20261101.pdf
